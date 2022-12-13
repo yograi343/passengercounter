@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.component{
+    text-align: center;
+    margin-top: 10%;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn{
+    background: darkred;
+}
+#increment-btn:hover{
+    background: red;
+}
+#save-btn{
+    background-color: darkgreen;
+}
+#save-btn:hover{
+    background-color: green;
+}
